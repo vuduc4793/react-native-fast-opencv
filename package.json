@@ -49,7 +49,6 @@
   },
   "homepage": "https://github.com/vuduc4793/react-native-fast-opencv#readme",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "devDependencies": {
